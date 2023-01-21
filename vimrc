@@ -7,3 +7,6 @@ set number
 set hlsearch
 set ruler
 highlight Comment ctermfg=green
+set hlsearch
+hi Search ctermbg=Magenta
+hi Search ctermfg=White
